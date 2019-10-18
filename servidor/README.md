@@ -1,3 +1,3 @@
-# alura-typer
+# MicroTyper
 Mini project: A type racer like game
 
